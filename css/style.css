@@ -1,0 +1,103 @@
+@import "null.css";
+
+header {
+	color: red;
+}
+
+span {
+	color: crimson;
+}
+
+p span {
+	color: goldenrod;
+}
+
+.text-1 {
+	color: green;
+}
+
+.head-1,
+.head-2,
+.head-3,
+.head-4,
+.head-5,
+.head-6,
+.head-7,
+.head-8 {
+	color: blue;
+}
+
+#footer {
+	color: hotpink;
+}
+
+.text.paragraph {
+	color: sienna;
+}
+
+.text .text__text {
+	color: red;
+}
+
+[class*="__text"] {
+	color: purple;
+}
+
+.headpage ~ p {
+	color: blue;
+}
+
+.text-2 {
+	color: hotpink;
+}
+
+p {
+	color: salmon;
+}
+.menu {
+	color: green;
+}
+
+.text-4 {
+	color: seagreen;
+}
+
+.text-5 {
+	color: blue;
+}
+
+.bigblue {
+	color: blue;
+}
+
+.text-9 {
+	color: green;
+}
+
+.top-10 {
+	color: aquamarine;
+}
+
+.bigreen {
+	color: seagreen;
+}
+
+.text-10 {
+	color: purple;
+}
+
+.text-11 {
+	color: chocolate;
+}
+
+.text-12 {
+	color: blueviolet;
+}
+
+.biggreen {
+	color: seagreen;
+}
+
+.odin__1text > p {
+	color: green;
+}
